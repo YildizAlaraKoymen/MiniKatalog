@@ -111,15 +111,15 @@ flutter run
 
 ### Ana Sayfa
 
-![Ana Sayfa](screenshots/home.png)
+<img width="708" height="1338" alt="image" src="https://github.com/user-attachments/assets/50dc59fe-eece-4d2e-8a37-6b9578dc7c1c" />
 
 ### Ürün Detayı
 
-![Ürün Detayı](screenshots/detail.png)
+<img width="706" height="1336" alt="image" src="https://github.com/user-attachments/assets/4ec065e8-540c-44eb-9326-03725c3ab6be" />
 
 ### Sepet
 
-![Sepet](screenshots/cart.png)
+<img width="713" height="1343" alt="image" src="https://github.com/user-attachments/assets/76e08f21-8328-4ac2-ac08-beb5f0f57c0e" />
 
 ## Veri Kaynağı
 
